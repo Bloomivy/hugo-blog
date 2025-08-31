@@ -52,7 +52,7 @@ showZenMode: false
 
 本人只活跃在 [`GitHub`](https://github.com/eallion)、[`Mastodon`](https://e5n.cc/@eallion)、[`Steam`](https://steamcommunity.com/id/eallion)上，其他平台同名账号绝非本人所有。
 
-本站拥有唯一域名 `eallion.com` 、二级域名 `www.eallion.com`。除此之外的相关、相似域名，除非由本人实名认证，或者备案在本人名下，否则皆为他人所有，或者被他人盗用信息，与本人无关。
+本站拥有唯一域名 `377233861.xyz` 、二级域名 `www.377233861.xyz`。除此之外的相关、相似域名，除非由本人实名认证，或者备案在本人名下，否则皆为他人所有，或者被他人盗用信息，与本人无关。
 
 ### 说明
 
@@ -65,25 +65,25 @@ showZenMode: false
 
 ### 版权信息
 
-* [https://www.eallion.com/copyright/](https://www.eallion.com/copyright/)
+* [https://www.377233861.xyz/copyright/](https://www.377233861.xyz/copyright/)
 
 ### 隐私政策
 
-* [https://www.eallion.com/privacy-policy/](https://www.eallion.com/privacy-policy/)
+* [https://www.377233861.xyz/privacy-policy/](https://www.377233861.xyz/privacy-policy/)
 
 ### 本站源码
 
-* [https://github.com/eallion/eallion.com](https://github.com/eallion/eallion.com)
+* [https://github.com/eallion/377233861.xyz](https://github.com/eallion/377233861.xyz)
 
 ### Sitemap
 
-* About me：[https://about.eallion.com](https://about.eallion.com/)
-* 个人网址导航：[https://s.eallion.com](https://s.eallion.com/)
-* 嘀咕：[https://www.eallion.com/toot/](https://www.eallion.com/toot/)
-* 相册：[https://www.eallion.com/album/](https://www.eallion.com/album/)
-* LOL Penta：[https://www.eallion.com/penta/](https://www.eallion.com/penta/)
-* 观影记录：[https://www.eallion.com/movie/](https://www.eallion.com/movie/)
-* 好物分享：[https://www.eallion.com/goods/](https://www.eallion.com/goods/) -->
+* About me：[https://about.377233861.xyz](https://about.377233861.xyz/)
+* 个人网址导航：[https://s.377233861.xyz](https://s.377233861.xyz/)
+* 嘀咕：[https://www.377233861.xyz/toot/](https://www.377233861.xyz/toot/)
+* 相册：[https://www.377233861.xyz/album/](https://www.377233861.xyz/album/)
+* LOL Penta：[https://www.377233861.xyz/penta/](https://www.377233861.xyz/penta/)
+* 观影记录：[https://www.377233861.xyz/movie/](https://www.377233861.xyz/movie/)
+* 好物分享：[https://www.377233861.xyz/goods/](https://www.377233861.xyz/goods/) -->
 
 <!-- ### 联系方式
 
@@ -114,23 +114,23 @@ showZenMode: false
 ### 状态
 
 <div class="badge">
-  <a href="https://github.com/eallion/eallion.com/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/eallion/377233861.xyz/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">
     <img class="nozoom" src="https://img.shields.io/badge/License-GLWT-green">
   </a>
-  <a href="https://status.eallion.com/" target="_blank" rel="noopener noreferrer">
-    <img class="nozoom" alt="Uptime Robot ratio (30 days)" src="https://status.eallion.com/api/badge/2/uptime/168">
+  <a href="https://status.377233861.xyz/" target="_blank" rel="noopener noreferrer">
+    <img class="nozoom" alt="Uptime Robot ratio (30 days)" src="https://status.377233861.xyz/api/badge/2/uptime/168">
   </a>
-  <a href="https://github.com/eallion/eallion.com" target="_blank" rel="noopener noreferrer">
-    <img class="nozoom" src="https://img.shields.io/github/repo-size/eallion/eallion.com">
+  <a href="https://github.com/eallion/377233861.xyz" target="_blank" rel="noopener noreferrer">
+    <img class="nozoom" src="https://img.shields.io/github/repo-size/eallion/377233861.xyz">
   </a>
-  <a href="https://github.com/eallion/eallion.com/tags" target="_blank" rel="noopener noreferrer">
-    <img class="nozoom" src="https://img.shields.io/github/v/tag/eallion/eallion.com">
+  <a href="https://github.com/eallion/377233861.xyz/tags" target="_blank" rel="noopener noreferrer">
+    <img class="nozoom" src="https://img.shields.io/github/v/tag/eallion/377233861.xyz">
   </a>
-  <a href="https://github.com/eallion/eallion.com/tags" target="_blank" rel="noopener noreferrer">
-    <img class="nozoom" src="https://img.shields.io/github/commits-since/eallion/eallion.com/v5.0.2/main">
+  <a href="https://github.com/eallion/377233861.xyz/tags" target="_blank" rel="noopener noreferrer">
+    <img class="nozoom" src="https://img.shields.io/github/commits-since/eallion/377233861.xyz/v5.0.2/main">
   </a>
-  <a href="https://github.com/eallion/eallion.com/commits/main" target="_blank" rel="noopener noreferrer">
-    <img class="nozoom" src="https://img.shields.io/github/last-commit/eallion/eallion.com">
+  <a href="https://github.com/eallion/377233861.xyz/commits/main" target="_blank" rel="noopener noreferrer">
+    <img class="nozoom" src="https://img.shields.io/github/last-commit/eallion/377233861.xyz">
   </a>
   <a href="https://wakatime.com/@018dff59-cb93-47dc-bf2d-945cab4bdaae" target="_blank" rel="noopener noreferrer">
     <img class="nozoom" src="https://wakatime.com/badge/user/018dff59-cb93-47dc-bf2d-945cab4bdaae/project/018dffa2-e555-41e5-b4b8-abdc7df6ea3d.svg" alt="Total time coded since Mar 2 2024" />

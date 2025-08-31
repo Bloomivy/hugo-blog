@@ -124,9 +124,9 @@
 {{ $repoSize := "0" }}
 {{ $commitHashLong := "69d6ffe319557706dcf4150e960e7b7e21a37d9f" }}
 {{ $commitHashShort := "69d6ffe" }}
-{{ $commitsUrl := "https://api.github.com/repos/eallion/eallion.com/commits?per_page=1" }}
-{{ $contributorsUrl := "https://api.github.com/repos/eallion/eallion.com/contributors?anon=1&page=1" }}
-{{ $repoUrl := "https://api.github.com/repos/eallion/eallion.com" }}
+{{ $commitsUrl := "https://api.github.com/repos/eallion/377233861.xyz/commits?per_page=1" }}
+{{ $contributorsUrl := "https://api.github.com/repos/eallion/377233861.xyz/contributors?anon=1&page=1" }}
+{{ $repoUrl := "https://api.github.com/repos/eallion/377233861.xyz" }}
 <!-- 添加一个时间戳用于避免缓存 -->
 {{ $timestamp := now.Unix }}
 {{ with $commitsResource := resources.GetRemote $commitsUrl (dict "timeout" "15s" "key" (printf "%s-%d" $commitsUrl $timestamp)) }}
@@ -993,7 +993,7 @@
               </div>
             </div>
             <div class="p-4">
-              <p class="flex items-center text-sm text-neutral-600 dark:text-neutral-300 mt-0 mb-4 line-clamp-2 overflow-x-hidden">Let's build from here. <svg class="ml-2 mr-1 inline-block" width="1em" height="1em" viewBox="0 0 512 512"><path fill="currentColor" d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6.0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6.0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1.0-6.2-.3-40.4-.3-61.4.0.0-70 15-84.7-29.8.0.0-11.4-29.1-27.8-36.6.0.0-22.9-15.7 1.6-15.4.0.0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5.0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9.0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4.0 33.7-.3 75.4-.3 83.6.0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6.0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9.0-6.2-1.4-2.3-4-3.3-5.6-2"></path></svg> <a href="https://github.com/eallion/eallion.com/tree/{{- $commitHashLong -}}" target="_blank"><span class="bg-[#818b981f] dark:bg-[#656c7633] text-primary-[#0969da] dark:text-primary-[#478be6] !text-xs m-0 py-0.5 px-1 whitespace-break-spaces !font-normal rounded-md underline underline-offset-4">{{- $commitHashShort -}}</span></a></p>
+              <p class="flex items-center text-sm text-neutral-600 dark:text-neutral-300 mt-0 mb-4 line-clamp-2 overflow-x-hidden">Let's build from here. <svg class="ml-2 mr-1 inline-block" width="1em" height="1em" viewBox="0 0 512 512"><path fill="currentColor" d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6.0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6.0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1.0-6.2-.3-40.4-.3-61.4.0.0-70 15-84.7-29.8.0.0-11.4-29.1-27.8-36.6.0.0-22.9-15.7 1.6-15.4.0.0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5.0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9.0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4.0 33.7-.3 75.4-.3 83.6.0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6.0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9.0-6.2-1.4-2.3-4-3.3-5.6-2"></path></svg> <a href="https://github.com/eallion/377233861.xyz/tree/{{- $commitHashLong -}}" target="_blank"><span class="bg-[#818b981f] dark:bg-[#656c7633] text-primary-[#0969da] dark:text-primary-[#478be6] !text-xs m-0 py-0.5 px-1 whitespace-break-spaces !font-normal rounded-md underline underline-offset-4">{{- $commitHashShort -}}</span></a></p>
               <div class="flex w-full justify-between items-center-safe gap-2 mb-0">
                 <div class="max-w-2/5 overflow-ellipsis text-center">
                   <div class="text-xs text-neutral-500 dark:text-neutral-400">Commits</div>
@@ -1173,42 +1173,42 @@
         <h3 id="techstack" class="headerLink mt-0"><a href="#TeckStack" class="header-mark" title="header-mark">TechStack</a></h3>
 
         <div class="badge techstack flex flex-row overflow-hidden gap-2">
-          <a href="https://github.com/eallion/eallion.com/actions/workflows/main.yml" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/eallion/377233861.xyz/actions/workflows/main.yml" target="_blank" rel="noopener noreferrer"
             aria-label="badge">
             <img class="nozoom" alt
-              src="https://github.com/eallion/eallion.com/actions/workflows/main.yml/badge.svg?branch=main"
+              src="https://github.com/eallion/377233861.xyz/actions/workflows/main.yml/badge.svg?branch=main"
               alt="Build Hugo and Deploy" />
           </a>
-          <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Feallion%2Feallion.com?ref=badge_shield" target="_blank" rel="noopener noreferrer"
+          <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Feallion%2F377233861.xyz?ref=badge_shield" target="_blank" rel="noopener noreferrer"
             aria-label="badge">
             <img class="nozoom" alt
-              src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Feallion%2Feallion.com.svg?type=shield"
+              src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Feallion%2F377233861.xyz.svg?type=shield"
               alt="FOSSA Status" />
           </a>
-          <a href="https://github.com/eallion/eallion.com/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/eallion/377233861.xyz/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"
             aria-label="badge">
             <img class="nozoom" alt src="https://img.shields.io/badge/License-GLWT-green">
           </a>
-          <a href="https://status.eallion.com/" target="_blank" rel="noopener noreferrer" aria-label="badge">
+          <a href="https://status.377233861.xyz/" target="_blank" rel="noopener noreferrer" aria-label="badge">
             <img class="nozoom" alt alt="Uptime Robot ratio (30 days)"
-              src="https://status.eallion.com/api/badge/2/uptime/168">
+              src="https://status.377233861.xyz/api/badge/2/uptime/168">
           </a>
-          <a href="https://github.com/eallion/eallion.com" target="_blank" rel="noopener noreferrer" aria-label="badge">
-            <img class="nozoom" alt src="https://img.shields.io/github/repo-size/eallion/eallion.com">
+          <a href="https://github.com/eallion/377233861.xyz" target="_blank" rel="noopener noreferrer" aria-label="badge">
+            <img class="nozoom" alt src="https://img.shields.io/github/repo-size/eallion/377233861.xyz">
           </a>
-          <a href="https://github.com/eallion/eallion.com/tags" target="_blank" rel="noopener noreferrer" aria-label="badge">
-            <img class="nozoom" alt src="https://img.shields.io/github/v/tag/eallion/eallion.com">
+          <a href="https://github.com/eallion/377233861.xyz/tags" target="_blank" rel="noopener noreferrer" aria-label="badge">
+            <img class="nozoom" alt src="https://img.shields.io/github/v/tag/eallion/377233861.xyz">
           </a>
-          <a href="https://github.com/eallion/eallion.com/tags" target="_blank" rel="noopener noreferrer" aria-label="badge">
-            <img class="nozoom" alt src="https://img.shields.io/github/commits-since/eallion/eallion.com/v5.0.2/main">
+          <a href="https://github.com/eallion/377233861.xyz/tags" target="_blank" rel="noopener noreferrer" aria-label="badge">
+            <img class="nozoom" alt src="https://img.shields.io/github/commits-since/eallion/377233861.xyz/v5.0.2/main">
           </a>
-          <a href="https://github.com/eallion/eallion.com/commits/main" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/eallion/377233861.xyz/commits/main" target="_blank" rel="noopener noreferrer"
             aria-label="badge">
-            <img class="nozoom" alt src="https://img.shields.io/github/last-commit/eallion/eallion.com">
+            <img class="nozoom" alt src="https://img.shields.io/github/last-commit/eallion/377233861.xyz">
           </a>
-          <a href="https://github.com/eallion/eallion.com/issues/new" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/eallion/377233861.xyz/issues/new" target="_blank" rel="noopener noreferrer"
             aria-label="badge">
-            <img class="nozoom" alt src="https://img.shields.io/github/issues/eallion/eallion.com?logo=GitHub&color=4ec100&style=flat">
+            <img class="nozoom" alt src="https://img.shields.io/github/issues/eallion/377233861.xyz?logo=GitHub&color=4ec100&style=flat">
           </a>
           <a href="https://wakatime.com/@018dff59-cb93-47dc-bf2d-945cab4bdaae" target="_blank" rel="noopener noreferrer"
             aria-label="badge">
@@ -1877,7 +1877,7 @@
 
           // URL base 64 加密
         // 白名单域名配置（精确匹配）
-        const allowedDomains = ['eallion.com', 'www.eallion.com', 'e5n.cc'];
+        const allowedDomains = ['377233861.xyz', 'www.377233861.xyz', 'e5n.cc'];
         // 重定向网关 URL
         const gatewayUrl = '/go/?target=';
         // 当前网站域名

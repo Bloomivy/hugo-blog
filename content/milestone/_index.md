@@ -42,7 +42,7 @@ aliases:
 {{< timeline >}}
 
 {{< timelineItem icon="directus" header="Directus" badge="Aug 18, 2025" >}}
-2025 年 8 月 18 日，博客文章用 Headless CMS Directus 管理。请求 API 的 <code><a href="https://github.com/eallion/eallion.com/blob/main/scripts/directus-fetch-all.js" target="_blank" rel="noopener noreferrer">node scripts/directus-fetch-all.js</a></code>。
+2025 年 8 月 18 日，博客文章用 Headless CMS Directus 管理。请求 API 的 <code><a href="https://github.com/eallion/377233861.xyz/blob/main/scripts/directus-fetch-all.js" target="_blank" rel="noopener noreferrer">node scripts/directus-fetch-all.js</a></code>。
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="English" badge="Aug 7, 2025" >}}
@@ -122,7 +122,7 @@ aliases:
 {{< /timelineItem >}}
 
 {{< timelineItem icon="star" header="更换域名" badge="Mar 26, 2010" >}}
-2010 年 3 月 26 日，主域名从 <code>eallion.cn</code> 更换为 <code>eallion.com</code>，开始使用 Wordpress。
+2010 年 3 月 26 日，主域名从 <code>eallion.cn</code> 更换为 <code>377233861.xyz</code>，开始使用 Wordpress。
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" header="Twitter" badge="Nov 11, 2009" >}}
