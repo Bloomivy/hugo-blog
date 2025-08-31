@@ -1,0 +1,25 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 1
+contentDir = "content"
+title = "ivybloom"
+
+[params.author]
+displayName = "简体中文"
+isoCode = "zh-cn"
+rtl = false
+dateFormat = "Jan 2, 2006"
+# logo = "images/logo.png"
+# secondaryLogo
+name = "ivybloom"
+image = "img/author.webp"
+description = "机会总是垂青于有准备的人！"
+# headline = "u can see me"
+# bio = "u can see me"
+links = [
+    { email = "mailto:ivybloom2083@gmail.com" },
+    { github = "https://github.com/Bloomivy" },
+    { }
+]
+
+# copyright = "© 2006 - { year } <span class='inline-block'><a href='/copyright/' target='_blank'>eallion.com</a> All Rights Reserved</span>. <span class='inline-block'><a href='https://beian.miit.gov.cn/' target='_blank'>浙ICP备16031768号-2</a></span>"
